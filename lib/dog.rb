@@ -5,7 +5,7 @@ def initialize(name)
 end
 
 def name=(dogname)
-  @name
+  @name = dogname
 end
 
 def name
