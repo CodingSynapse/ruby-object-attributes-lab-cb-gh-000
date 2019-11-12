@@ -8,4 +8,8 @@ def name=(dogname)
   @name
 end
 
+def name
+  @name
+end
+
 end
